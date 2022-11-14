@@ -12,3 +12,5 @@ terraform {
     }           
   }
 }
+
+#Comment to force version 2
